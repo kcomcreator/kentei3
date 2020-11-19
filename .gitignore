@@ -5,3 +5,5 @@
 /kentei3/.vs/kentei3/v16/Browse.VC.opendb
 *.h
 *.obj
+*.ipch
+
