@@ -8,6 +8,7 @@ int main()
 	int size, i, sum;
 
 	int a;
+	a = 0;
 
 	//ƒf[ƒ^‚ğ“ü—Í‚·‚é
 	size = 0;
