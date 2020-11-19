@@ -6,6 +6,7 @@ int main()
 	int codes[MAX_SIZE], code;
 	int counts[MAX_SIZE], count;
 	int size, i, sum;
+	int d;
 
 	//ƒf[ƒ^‚ğ“ü—Í‚·‚é
 	size = 0;
