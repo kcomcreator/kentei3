@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\kentei3",
+    "\\kentei3\\kentei3",
+    "\\kentei3\\kentei3\\x64",
+    "\\kentei3\\kentei3\\x64\\Debug",
+    "\\kentei3\\x64",
+    "\\kentei3\\x64\\Debug"
   ],
+  "SelectedNode": "\\kentei3\\kentei3\\x64\\Debug",
   "PreviewInSolutionExplorer": false
 }
