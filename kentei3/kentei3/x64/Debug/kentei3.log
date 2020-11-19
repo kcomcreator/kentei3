@@ -1,4 +1,3 @@
 ﻿  P10.c
-C:\Users\student\source\repos\kcomcreator\kentei3\kentei3\kentei3\P10.c(9,6): warning C4101: 'd': ローカル変数は 1 度も使われていません。
-  LINK : 前回のインクリメンタル リンクで C:\Users\student\source\repos\kcomcreator\kentei3\kentei3\x64\Debug\kentei3.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
-  kentei3.vcxproj -> C:\Users\student\source\repos\kcomcreator\kentei3\kentei3\x64\Debug\kentei3.exe
+C:\Users\event\Desktop\kentei3\kentei3\kentei3\P10.c(10,6): warning C4101: 'a': ローカル変数は 1 度も使われていません。
+  kentei3.vcxproj -> C:\Users\event\Desktop\kentei3\kentei3\x64\Debug\kentei3.exe

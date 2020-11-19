@@ -6,7 +6,8 @@ int main()
 	int codes[MAX_SIZE], code;
 	int counts[MAX_SIZE], count;
 	int size, i, sum;
-	int d;
+
+	int a;
 
 	//データを入力する
 	size = 0;
@@ -25,7 +26,7 @@ int main()
 
 		size++;//34
 	}
-
+	
 
 	//商品コードごとの売り上げ個数の合計値を出力する
 
